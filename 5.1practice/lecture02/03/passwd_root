@@ -1,0 +1,4 @@
+root:x:0:0:root:/root:/bin/bash
+nm-openvpn:x:119:125:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+root:x:0:0:root:/root:/bin/bash
+nm-openvpn:x:119:125:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin

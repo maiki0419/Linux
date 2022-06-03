@@ -1,0 +1,7 @@
+HI
+this
+is test file
+123 456
+abcd
+ABCD
+[abcd]
